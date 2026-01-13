@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mrjarvis250-hub/TilasmiCalculator.git/static/css/main.d48cb3e0.css",
+    "main.js": "/mrjarvis250-hub/TilasmiCalculator.git/static/js/main.aa61221e.js",
+    "index.html": "/mrjarvis250-hub/TilasmiCalculator.git/index.html",
+    "main.d48cb3e0.css.map": "/mrjarvis250-hub/TilasmiCalculator.git/static/css/main.d48cb3e0.css.map",
+    "main.aa61221e.js.map": "/mrjarvis250-hub/TilasmiCalculator.git/static/js/main.aa61221e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d48cb3e0.css",
+    "static/js/main.aa61221e.js"
+  ]
+}
